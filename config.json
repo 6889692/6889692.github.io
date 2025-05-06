@@ -5,7 +5,7 @@
     "displayTitle":"MGTnote",
     "homeUrl":"/",
     "avatarUrl":"avatar.svg",
-    "faviconUrl":"../favicon.ico",
+    "faviconUrl":"avatar.svg",
     "startSite":"01/01/2025",
     "rssSplit":"$$$$$$$",
     "singlePage":["about"],
